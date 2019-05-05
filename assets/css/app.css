@@ -4308,3 +4308,15 @@ w-100vh {
   padding-left: 300px !important; }
 
 /*# sourceMappingURL=app.css.map */
+.fa-facebook:hover{
+  color:#3c5a99;
+}
+.fa-github-square:hover{
+  color:#6e5494;
+}
+.fa-stack-overflow:hover{
+  color:#f48024;
+}
+.fa-linkedin:hover{
+  color:#0077b5;
+}
