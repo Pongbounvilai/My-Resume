@@ -18,7 +18,11 @@
 
   abbr[title]::after {
     content: " (" attr(title) ")"; }
+  .list-unstyled{
+    color: white;
+    margin: top;
 
+  }
   pre {
     white-space: pre-wrap !important; }
 
@@ -393,6 +397,8 @@ mark,
   background-color: #fcf8e3; }
 
 .list-unstyled {
+  color: white;
+  margin: top;
   padding-left: 0;
   list-style: none; }
 
